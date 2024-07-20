@@ -1,0 +1,3 @@
+3D models: https://sketchfab.com
+
+Including GLTF models in AR: https://aframe.io/blog/arjs/
